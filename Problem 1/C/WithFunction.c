@@ -58,6 +58,10 @@ int main(){
 	{
 		printf("False");
 	}
+	
+	free(arr2);
+	
+	return 0;
 }
 
 int checkSumPointer(int * arr, int k, int n)

@@ -41,4 +41,7 @@ int main(){
 	{
 		printf("False");
 	}
+	
+	free(arr);
+	return 0;
 }
