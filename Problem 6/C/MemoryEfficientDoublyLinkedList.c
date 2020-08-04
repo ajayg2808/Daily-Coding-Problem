@@ -444,7 +444,7 @@ int main()
 
         case 11:
             printf(SEPERATOR);
-            traversDoublyLinkedListReverse(index);
+            traversDoublyLinkedListReverse();
             break;
 
         case 12:
