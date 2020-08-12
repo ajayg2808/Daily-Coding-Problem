@@ -1,5 +1,3 @@
-package com.codestack.store;
-
 import java.util.Scanner;
 
 /**
