@@ -1,16 +1,10 @@
-/**
- * Code Stack Copyright Since 2020
- * visit codestack.com
- */
-package com.codestack.store;
-
 import java.util.Scanner;
 
 /**
  * @author Ajay G.
  *
  */
-public class ProblemSix {
+public class SolutionSix {
 	private final static String ENTER_ELEMENT = "\n Enter element to add at ";
 	private final static String SEPERATOR = "\n======================================================================\n";
 

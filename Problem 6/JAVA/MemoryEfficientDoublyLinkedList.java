@@ -1,9 +1,3 @@
-/**
- * Code Stack Copyright Since 2020
- * visit codestack.com
- */
-package com.codestack.store;
-
 import java.util.HashMap;
 import java.util.Map;
 
